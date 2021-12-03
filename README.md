@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora com HTML, CSS, JS e Bootstrap
+ Calculadora com HTML, CSS e JS.
